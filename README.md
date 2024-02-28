@@ -1,1 +1,4 @@
-# Today's Learning Log 
+# Today's learning log 
+
+| Date | Learning |
+|------|----------|
