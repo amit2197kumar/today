@@ -1,5 +1,16 @@
 # Today's learning log(2024) 📆
 
+## March 2024
+|	Sun	|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|		|		|		|		|		|	✅ | ✅	|
+|	✅ |	4	|	5	|	6	|	7	|	8	|	9	|
+|	10	|	11	|	12	|	13	|	14	|	15	|	16	|
+|	17	|	18	|	19	|	20	|	21	|	22	|	23	|
+|	24	|	25	|	26	|	27	|	28	|	29	|	30	|
+|	31	|		|		|		|		|		|		|
+
+
 | Date | Learning | Source |
 |------|----------|--------|
 | 28/02 | React: Library vs Framework, Composability, Declarative vs Imperative, Components, Fragment Tag | scrimba.com |
