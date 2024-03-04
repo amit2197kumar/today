@@ -4,7 +4,7 @@
 |	Sun	|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|		|		|		|		|	✅ | ✅	|
-|	✅ |	4	|	5	|	6	|	7	|	8	|	9	|
+|	✅ | ✅	|	5	|	6	|	7	|	8	|	9	|
 |	10	|	11	|	12	|	13	|	14	|	15	|	16	|
 |	17	|	18	|	19	|	20	|	21	|	22	|	23	|
 |	24	|	25	|	26	|	27	|	28	|	29	|	30	|
@@ -18,3 +18,4 @@
 | 01/03 | React: Props, reusability, JS in JSX, Destructuring props | scrimba.com |
 | 02/03 | React: Non-string props, Render array via props, Spread object in props, Key props | scrimba.com |
 | 03/03 | React: Interpolation in JS, Props vs State, useState, State in array & objects, Passing state as props | scrimba.com |
+| 04/03 | React: Passing data around components, Props and State Practice | scrimba.com |
