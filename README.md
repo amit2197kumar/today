@@ -4,7 +4,7 @@
 |	Sun	|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|		|		|		|		|	✅ | ✅	|
-|	✅ | ✅	|	✅ |	6	|	7	|	8	|	9	|
+|	✅ | ✅	|	✅ | ✅ |	7	|	8	|	9	|
 |	10	|	11	|	12	|	13	|	14	|	15	|	16	|
 |	17	|	18	|	19	|	20	|	21	|	22	|	23	|
 |	24	|	25	|	26	|	27	|	28	|	29	|	30	|
@@ -20,3 +20,4 @@
 | 03/03 | React: Interpolation in JS, Props vs State, useState, State in array & objects, Passing state as props | scrimba.com |
 | 04/03 | React: Passing data around components, Props and State Practice | scrimba.com |
 | 05/03 | Frontend Path: HTML basics tags, Nesting, Buttons, Input field, Anchor tags, Lists | scrimba.com |
+| 06/03 | Frontend Path: CSS basics, Inline vs Block element, Divs, Classes, Margin, Centering contents, Padding, Border, Flexbox, Inheritance, Shorthand CSS, Web-safe fonts | scrimba.com |
