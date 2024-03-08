@@ -3,8 +3,8 @@
 ## March 2024
 |	Sun	|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|		|		|		|		|		|	✅ | ✅	|
-|	✅ | ✅ |	✅ | ✅ | ✅ |	8	|	9	|
+|		|		|		|		|		|	✅ | ✅ |
+|	✅ | ✅ |	✅ | ✅ | ✅ |	✅ |	9	|
 |	10	|	11	|	12	|	13	|	14	|	15	|	16	|
 |	17	|	18	|	19	|	20	|	21	|	22	|	23	|
 |	24	|	25	|	26	|	27	|	28	|	29	|	30	|
@@ -22,3 +22,4 @@
 | 05/03 | Frontend Path: HTML basics tags, Nesting, Buttons, Input field, Anchor tags, Lists | scrimba.com |
 | 06/03 | Frontend Path: CSS basics, Inline vs Block element, Divs, Classes, Margin, Centering contents, Padding, Border, Flexbox, Inheritance, Shorthand CSS, Web-safe fonts | scrimba.com |
 | 07/03 | Frontend Path: CCS practice, Webp background, External fonts, Span Tag, Id vs Class, Utility classes, Text shadows | scrimba.com |
+| 08/03 | Frontend Path: CCS practice, Flexbox: flex-direction justify-content align-items flex + margin, .hover, Grouping selector | scrimba.com |
