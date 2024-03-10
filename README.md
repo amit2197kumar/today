@@ -5,7 +5,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|		|		|		|		|	✅ | ✅ |
 |	✅ | ✅ |	✅ | ✅ | ✅ |	✅ | ✅ |
-|	10	|	11	|	12	|	13	|	14	|	15	|	16	|
+|	✅ |	11	|	12	|	13	|	14	|	15	|	16	|
 |	17	|	18	|	19	|	20	|	21	|	22	|	23	|
 |	24	|	25	|	26	|	27	|	28	|	29	|	30	|
 |	31	|		|		|		|		|		|		|
@@ -24,3 +24,4 @@
 | 07/03 | Frontend Path: CCS practice, Webp background, External fonts, Span Tag, Id vs Class, Utility classes, Text shadows | scrimba.com |
 | 08/03 | Frontend Path: CCS practice, Flexbox: flex-direction justify-content align-items flex + margin, .hover, Grouping selector | scrimba.com |
 | 09/03 | Frontend Path: JS Script tag, Variables, Numbers, String, Function, The DOM, getElementbyId(), innerText, textContext | scrimba.com |
+| 10/03 | Frontend Path: Arrays, Objects, Boolean, if-else, Comparison & Logical Operator, Loops, Math objects, Method vs Function, getElementById() vs querySelector() | scrimba.com |
