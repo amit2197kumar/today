@@ -4,8 +4,8 @@
 |	Sun	|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|		|		|		|		|	✅ | ✅ |
-|	✅ | ✅ |	✅ | ✅ | ✅ |	✅ | ✅ |
-|	✅ | ✅ | ✅ |	13	|	14	|	15	|	16	|
+|	✅ | ✅ | ✅ | ✅ | ✅ |	✅ | ✅ |
+|	✅ | ✅ | ✅ | ✅ |	14	|	15	|	16	|
 |	17	|	18	|	19	|	20	|	21	|	22	|	23	|
 |	24	|	25	|	26	|	27	|	28	|	29	|	30	|
 |	31	|		|		|		|		|		|		|
@@ -26,4 +26,5 @@
 | 09/03 | Frontend Path: JS Script tag, Variables, Numbers, String, Function, The DOM, getElementbyId(), innerText, textContext | scrimba.com |
 | 10/03 | Frontend Path: Arrays, Objects, Boolean, if-else, Comparison & Logical Operator, Loops, Math objects, Method vs Function, getElementById() vs querySelector() | scrimba.com |
 | 11/03 | Frontend Path: .addEventListener(), innerHTML, document.createElement() & append(), template string, String to number, LocalStorage, Truthy & Falsy value | scrimba.com |
-| 12/03 |  Frontend Path: Argument vs Parameter, input.value, JSON object, Object in array | scrimba.com |
+| 12/03 | Frontend Path: Argument vs Parameter, input.value, JSON object, Object in array | scrimba.com |
+| 13/03 | Frontend Path: Import, Firebase basics, Objects -> Array, Flex - wrap, gap, grow, User-select, Favicon | scrimba.com |
