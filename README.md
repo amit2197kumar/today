@@ -5,7 +5,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|		|		|		|		|	✅ | ✅ |
 |	✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-|	✅ | ✅ | ✅ | ✅ | ✅ | ✅ |	16	|
+|	✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 |	17	|	18	|	19	|	20	|	21	|	22	|	23	|
 |	24	|	25	|	26	|	27	|	28	|	29	|	30	|
 |	31	|		|		|		|		|		|		|
@@ -30,3 +30,4 @@
 | 13/03 | Frontend Path: Import, Firebase basics, Objects -> Array, Flex - wrap, gap, grow, User-select, Favicon | scrimba.com |
 | 14/03 | Frontend Path: Semantic HTML, Margin space fix, Pseudo selector: hover & active (LoVeHAte), Background full width (width + margin), Specificity score in CSS, Compound selectors in CSS, Button vs Link, Inline-block, Overflow & Float CSS tags, Multiple class in one element | scrimba.com |
 | 15/03 | Frontend Path: margin:auto on flex children, position: absolute, relative & fix, align-self, z-index | scrimba.com |
+| 16/03 | Frontend Path: setTimeout, element.style, form, label, formData & .get(), event.preventDefault, CSS:row-reverse, toggling classes, input validation attributes, disabled attribute | scrimba.com |
