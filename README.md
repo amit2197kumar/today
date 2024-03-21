@@ -6,7 +6,7 @@
 |		|		|		|		|		|	✅ | ✅ |
 |	✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 |	✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-|	✅ | ✅ | ✅ | ✅ |	21	|	22	|	23	|
+|	✅ | ✅ | ✅ | ✅ | ✅ |	22	|	23	|
 |	24	|	25	|	26	|	27	|	28	|	29	|	30	|
 |	31	|		|		|		|		|		|		|
 
@@ -34,4 +34,5 @@
 | 17/03 | Frontend Path: `for(of)`, `import & export`, radio type `<input>`(id, type, name & value), Relation b/w `<input>` & `<lable>`, `.includes`, `event.target.id`, `classList.add/remove`, `.parentElement`, `.getElementByClassName`, `.querySelector()`, `<checkbox>` (.clicked), `.filter()`, `<select> <option> & <optgroup>` | scrimba.com |
 | 18/03 | Frontend Path: `<textares>` (resize=none), `foreach()`, CDN in HTML, `data-*` attribute, `event.target.dataset.*`, Deep vs Shallow copy | scrimba.com |
 | 19/03 | Frontend Path: Deep vs Shallow copy, Generate UUID, Use UUID, `classlist.toggle()`, How to keep single click eventListener() for all clicks on screen | scrimba.com |
-| 20/03 | Frontend Path: Object restructuring, `.map()`, `.join()`, `.map()` vs `.forEach()` - which to use when?, When to use normal for loop?, Why not use InnerHTML? What is the replacement?, Hoisting, Function expression and its advantage | scrimba.com |
+| 20/03 | Frontend Path: Object destructuring, `.map()`, `.join()`, `.map()` vs `.forEach()` - which to use when?, When to use normal for loop?, Why not use InnerHTML? What is the replacement?, Hoisting, Function expression and its advantage | scrimba.com |
+| 21/03 | Frontend Path: Arrow fn, Named vs Default `import` & `export` - difference, which to use when, which type of import can be renamed?, `.reduce()` fn, default parameters | scrimba.com |
