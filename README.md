@@ -6,7 +6,7 @@
 |		|		|		|		|		|	✅ | ✅ |
 |	✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 |	✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-|	✅ | ✅ | ✅ | ✅ | ✅ |	22	|	23	|
+|	✅ | ✅ | ✅ | ✅ | ✅ | ✅ |	23	|
 |	24	|	25	|	26	|	27	|	28	|	29	|	30	|
 |	31	|		|		|		|		|		|		|
 
@@ -36,3 +36,4 @@
 | 19/03 | Frontend Path: Deep vs Shallow copy, Generate UUID, Use UUID, `classlist.toggle()`, How to keep single click eventListener() for all clicks on screen | scrimba.com |
 | 20/03 | Frontend Path: Object destructuring, `.map()`, `.join()`, `.map()` vs `.forEach()` - which to use when?, When to use normal for loop?, Why not use InnerHTML? What is the replacement?, Hoisting, Function expression and its advantage | scrimba.com |
 | 21/03 | Frontend Path: Arrow fn, Named vs Default `import` & `export` - difference, which to use when, which type of import can be renamed?, `.reduce()` fn, default parameters | scrimba.com |
+| 22/03 | Frontend Path: Rest parameter, Spread operator (copy an array), `Math.max(...arr)`, `Math.min(...arr)`, Short-circuiting by `OR` and `&&` , switch case, Error() constructor | scrimba.com |
