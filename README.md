@@ -7,7 +7,7 @@
 |	✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 |	✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 |	✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-|	24	|	25	|	26	|	27	|	28	|	29	|	30	|
+|	✅ |	25	|	26	|	27	|	28	|	29	|	30	|
 |	31	|		|		|		|		|		|		|
 
 
@@ -38,3 +38,4 @@
 | 21/03 | Frontend Path: Arrow fn, Named vs Default `import` & `export` - difference, which to use when, which type of import can be renamed?, `.reduce()` fn, default parameters | scrimba.com |
 | 22/03 | Frontend Path: Rest parameter, Spread operator (copy an array), `Math.max(...arr)`, `Math.min(...arr)`, Short-circuiting by `OR` and `&&` , switch case, Error() constructor | scrimba.com |
 | 23/03 | Frontend Path: Constructor function, classes & `constructor()`, `try()` and `catch()`, `console.error()` | scrimba.com |
+| 24/03 | Frontend Path: API, Client, Service, Request & Response | scrimba.com |
