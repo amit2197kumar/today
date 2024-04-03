@@ -7,8 +7,8 @@
 |	✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 |	✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 |	✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-|	✅ |	25	|	26	|	27	|	28	|	29	|	30	|
-|	31	|		|		|		|		|		|		|
+|	✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| ❌ |		|		|		|		|		|		|
 
 
 | Date | Learning | Source |
@@ -39,3 +39,10 @@
 | 22/03 | Frontend Path: Rest parameter, Spread operator (copy an array), `Math.max(...arr)`, `Math.min(...arr)`, Short-circuiting by `OR` and `&&` , switch case, Error() constructor | scrimba.com |
 | 23/03 | Frontend Path: Constructor function, classes & `constructor()`, `try()` and `catch()`, `console.error()` | scrimba.com |
 | 24/03 | Frontend Path: API, Client, Service, Request & Response | scrimba.com |
+| 25/03 | Office work/Procrastination | |
+| 26/03 | Office work/Procrastination | |
+| 27/03 | Office work/Procrastination | |
+| 28/03 | Goa Trip - Arjun's Bachlors | |
+| 29/03 | Goa Trip - Arjun's Bachlors | |
+| 30/03 | Goa Trip - Arjun's Bachlors | |
+| 31/03 | Goa Trip - Arjun's Bachlors | |
