@@ -1,6 +1,5 @@
-# Today's learning log(2024) 📆
+# Today's learning log - MARCH (2024) 📆
 
-## March 2024
 |	Sun	|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|		|		|		|		|	✅ | ✅ |
