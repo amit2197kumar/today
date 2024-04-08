@@ -4,6 +4,8 @@ Total Learning Days: `29` ✅
 
 Total Procrastinating Days: `6` ❌
 
+Vacation: `4` 🏖️
+
 
 
 ## March
