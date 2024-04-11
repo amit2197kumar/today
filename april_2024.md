@@ -3,7 +3,7 @@
 |	Sun	|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|	❌ | ❌ | ❌ |	✅ | ✅ | ✅ |
-| ✅ | ✅ | ✅ | ✅ |	11	|	12	|	13	|
+| ✅ | ✅ | ✅ | ✅ | ✅ |	12	|	13	|
 |	14	|	15	|	16	|	17	|	18	|	19	|	20	|
 |	21	|	22	|	23	|	24	|	25	|	26	|	27	|
 |	28	|	29	|	30	|		|		|		|		|
@@ -19,4 +19,5 @@
 | 07/04 | Episode 1 of Namaste React - [Learning from Episode 1](https://github.com/amit2197kumar/react101/blob/episode1/README.md) | Namaste React |
 | 08/04 | Episode 2 of Namaste React - [Learning from Episode 2](https://github.com/amit2197kumar/react101/blob/episode2/README.md) | Namaste React |
 | 09/04 | Episode 3 of Namaste React - [Learning from Episode 3](https://github.com/amit2197kumar/react101/blob/episode3/README.md) | Namaste React |
-| 09/04 | Episode 4 of  Namaste React | Namaste React |
+| 10/04 | Episode 4 of  Namaste React | Namaste React |
+| 11/04 | Episode 4 of  Namaste React | Namaste React |
