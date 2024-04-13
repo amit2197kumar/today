@@ -3,7 +3,7 @@
 |	Sun	|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|	❌ | ❌ | ❌ |	✅ | ✅ | ✅ |
-| ✅ | ✅ | ✅ | ✅ | ✅ |	12	|	13	|
+| ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |	✅ |
 |	14	|	15	|	16	|	17	|	18	|	19	|	20	|
 |	21	|	22	|	23	|	24	|	25	|	26	|	27	|
 |	28	|	29	|	30	|		|		|		|		|
@@ -21,3 +21,5 @@
 | 09/04 | Episode 3 of Namaste React - [Learning from Episode 3](https://github.com/amit2197kumar/react101/blob/episode3/README.md) | Namaste React |
 | 10/04 | Episode 4 of  Namaste React | Namaste React |
 | 11/04 | Episode 4 of  Namaste React | Namaste React |
+| 12/04 | Office work/Procrastination | |
+| 13/04 | Episode 4 of  Namaste React - [Learning from Episode 4](https://github.com/amit2197kumar/react101/blob/episode4/README.md)| Namaste React |
