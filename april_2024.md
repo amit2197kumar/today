@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|	❌ | ❌ | ❌ |	✅ | ✅ | ✅ |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |	✅ |
-|	✅ |	15	|	16	|	17	|	18	|	19	|	20	|
+|	✅ | ✅ |	16	|	17	|	18	|	19	|	20	|
 |	21	|	22	|	23	|	24	|	25	|	26	|	27	|
 |	28	|	29	|	30	|		|		|		|		|
 
@@ -24,3 +24,4 @@
 | 12/04 | Office work/Procrastination | |
 | 13/04 | Episode 4 of  Namaste React - [Learning from Episode 4](https://github.com/amit2197kumar/react101/blob/episode4/README.md)| Namaste React |
 | 14/04 | Episode 5 of  Namaste React | Namaste React |
+| 14/04 | Episode 5 of  Namaste React - [Learning from Episode 5](https://github.com/amit2197kumar/react101/blob/episode5/README.md) | Namaste React |
