@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|	❌ | ❌ | ❌ |	✅ | ✅ | ✅ |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |	✅ |
-|	✅ | ✅ | ✅ | ✅ |	18	|	19	|	20	|
+|	✅ | ✅ | ✅ | ✅ | ✅ |	19	|	20	|
 |	21	|	22	|	23	|	24	|	25	|	26	|	27	|
 |	28	|	29	|	30	|		|		|		|		|
 
@@ -27,3 +27,4 @@
 | 15/04 | Episode 5 of Namaste React - [Learning from Episode 5](https://github.com/amit2197kumar/react101/blob/episode5/README.md) | Namaste React |
 | 16/04 | Episode 5 of Namaste React: Monolith vs Microservice Architeture, `useEffect()` Hook, `fetch()` data from API, When does the component re-render?, Adding Shimmer UI | Namaste React |
 | 17/04 | Episode 5 of Namaste React: Conditional Rendering `?`, Two Approach to call API.| Namaste React |
+| 17/04 | Episode 5 of Namaste React: Practice for `useState()` and `useEffect()` [Learning from Episode 6](https://github.com/amit2197kumar/react101/blob/episode6/README.md) | Namaste React |
