@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|	❌ | ❌ | ❌ |	✅ | ✅ | ✅ |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |	✅ |
-|	✅ | ✅ | ✅ | ✅ | ✅ |	19	|	20	|
+|	✅ | ✅ | ✅ | ✅ | ✅ | ✅ |	20	|
 |	21	|	22	|	23	|	24	|	25	|	26	|	27	|
 |	28	|	29	|	30	|		|		|		|		|
 
@@ -25,6 +25,7 @@
 | 13/04 | Episode 4 of Namaste React - [Learning from Episode 4](https://github.com/amit2197kumar/react101/blob/episode4/README.md)| Namaste React |
 | 14/04 | Episode 5 of Namaste React | Namaste React |
 | 15/04 | Episode 5 of Namaste React - [Learning from Episode 5](https://github.com/amit2197kumar/react101/blob/episode5/README.md) | Namaste React |
-| 16/04 | Episode 5 of Namaste React: Monolith vs Microservice Architeture, `useEffect()` Hook, `fetch()` data from API, When does the component re-render?, Adding Shimmer UI | Namaste React |
-| 17/04 | Episode 5 of Namaste React: Conditional Rendering `?`, Two Approach to call API.| Namaste React |
-| 17/04 | Episode 5 of Namaste React: Practice for `useState()` and `useEffect()` [Learning from Episode 6](https://github.com/amit2197kumar/react101/blob/episode6/README.md) | Namaste React |
+| 16/04 | Episode 6 of Namaste React: Monolith vs Microservice Architeture, `useEffect()` Hook, `fetch()` data from API, When does the component re-render?, Adding Shimmer UI | Namaste React |
+| 17/04 | Episode 6 of Namaste React: Conditional Rendering `?`, Two Approach to call API.| Namaste React |
+| 18/04 | Episode 6 of Namaste React: Practice for `useState()` and `useEffect()` [Learning from Episode 6](https://github.com/amit2197kumar/react101/blob/episode6/README.md) | Namaste React |
+| 19/04 | Episode 7 of Namaste React: `create-router-dom` [Learning from Episode 7](https://github.com/amit2197kumar/react101/blob/episode7/README.md) | Namaste React |
