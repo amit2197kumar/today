@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |		|	❌ | ❌ | ❌ |	✅ | ✅ | ✅ |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |	✅ |
-|	✅ | ✅ | ✅ | ✅ | ✅ | ✅ |	20	|
+|	✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 |	21	|	22	|	23	|	24	|	25	|	26	|	27	|
 |	28	|	29	|	30	|		|		|		|		|
 
@@ -29,3 +29,4 @@
 | 17/04 | Episode 6 of Namaste React: Conditional Rendering `?`, Two Approach to call API.| Namaste React |
 | 18/04 | Episode 6 of Namaste React: Practice for `useState()` and `useEffect()` [Learning from Episode 6](https://github.com/amit2197kumar/react101/blob/episode6/README.md) | Namaste React |
 | 19/04 | Episode 7 of Namaste React: `create-router-dom` [Learning from Episode 7](https://github.com/amit2197kumar/react101/blob/episode7/README.md) | Namaste React |
+| 20/04 | Episode 9 of Namaste React: `Custom Hooks` | Namaste React |
