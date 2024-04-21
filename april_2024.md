@@ -5,7 +5,7 @@
 |		|	❌ | ❌ | ❌ |	✅ | ✅ | ✅ |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |	✅ |
 |	✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-|	21	|	22	|	23	|	24	|	25	|	26	|	27	|
+| ✅ |	22	|	23	|	24	|	25	|	26	|	27	|
 |	28	|	29	|	30	|		|		|		|		|
 
 | Date | Learning | Source |
@@ -30,3 +30,4 @@
 | 18/04 | Episode 6 of Namaste React: Practice for `useState()` and `useEffect()` [Learning from Episode 6](https://github.com/amit2197kumar/react101/blob/episode6/README.md) | Namaste React |
 | 19/04 | Episode 7 of Namaste React: `create-router-dom` [Learning from Episode 7](https://github.com/amit2197kumar/react101/blob/episode7/README.md) | Namaste React |
 | 20/04 | Episode 9 of Namaste React: `Custom Hooks` | Namaste React |
+| 21/04 | Practice react topics read before, Solved 5 coding problems | takeuforward.org |
