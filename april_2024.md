@@ -6,7 +6,7 @@
 | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |	✅ |
 |	✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | ✅ | 🏖️ | 🏖️ | 🏖️ | 🏖️ | 🏖️ | 🏖️ |
-|	28	|	29	|	30	|		|		|		|		|
+|	✅ |	29	|	30	|		|		|		|		|
 
 | Date | Learning | Source |
 |------|----------|--------|
@@ -37,3 +37,4 @@
 | 25/04 | Vacation - Arjun's Wedding | |
 | 26/04 | Vacation - Arjun's Wedding | |
 | 27/04 | Vacation - Arjun's Wedding | |
+| 28/04 | Solved 3 coding problems | takeuforward.org |
