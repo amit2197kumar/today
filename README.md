@@ -1,8 +1,8 @@
 # Today's learning log (2024) 📆
 
-Total Learning Days: `69` ✅
+Total Learning Days: `70` ✅
 
-Total Procrastinating Days: `7` ❌
+Total Procrastinating Days: `12` ❌
 
 Vacation: `10` 🏖️
 
@@ -32,7 +32,7 @@ Learning vs Procrastinating Days: 20 / 4
 |	✅ | ✅ | ✅ |		|		|		|		|
 
 ## May
-Learning vs Procrastinating Days: 25 / 0
+Learning vs Procrastinating Days: 26 / 5
 
 |	Sun	|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -40,4 +40,4 @@ Learning vs Procrastinating Days: 25 / 0
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | ✅ | ✅ | ✅	| ✅ | ✅ | ❌ | ✅ |
-|	✅ |	27	|	28	|	29	|	30	|	31	|		|
+|	✅ | ❌ | ❌ | ✅ | ❌ | ❌ |		|
